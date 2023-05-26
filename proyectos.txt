@@ -1,0 +1,36 @@
+Juego de adivinar números.
+Menu principal-
+Iniciar partida
+    Generar numero aleatorio entre min y max
+Vidas = dificultad(“cantidad-vidas”)
+echo “Tu hija esta atrapada en un calabozo y el codigo de la puerta esta entre  %min - %max”
+num = echo ‘intenta un código: ’
+
+
+
+Configuracion
+Numero min = 0
+Numero max = 9
+Digitos = %input
+Dificultad
+Abandonador - 10
+Padre - 7
+Giga-chad - 5
+Anair - 2
+
+
+Función_buscar_número
+Funcion configuracion
+
+
+mejoras:
+    clases
+        guerrero
+        mago
+        druida
+        bardo
+        pepe
+    musica bonica
+    fuego y destruccion
+    simplificar codigo
+    
